@@ -19,3 +19,5 @@ Even geduld, mee bezig.
 Nu heb ik het pas door denk ik
 
 [fruits](./data/fruits.csv)
+
+In deze repository wil ik graag deze zin toevoegen
