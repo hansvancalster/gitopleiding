@@ -17,3 +17,5 @@ Even geduld, mee bezig.
 # Oefening 3 
 
 Nu heb ik het pas door denk ik
+
+[fruits](./data/fruits.csv)
