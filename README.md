@@ -16,8 +16,9 @@ Even geduld, mee bezig.
 
 # Oefening 3 
 
-Nu heb ik het pas door denk ik
+Now I understand
 
 [fruits](./data/fruits.csv)
 
 In deze repository wil ik graag deze zin toevoegen
+
